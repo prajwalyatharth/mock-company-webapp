@@ -77,4 +77,4 @@ web address: http://localhost:8080
 
 ## My Project
 
-This is my awesome project. You can find the repository on [GitHub](https://github.com/your-username/your-repository).
+This is my awesome project. You can find the repository on [GitHub](https://github.com/prajwalyatharth/mock-company-webapp).
